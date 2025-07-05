@@ -1,0 +1,727 @@
+{
+  "usuarios": [
+    {
+      "usuariosTelefonos": [
+        {
+          "id": 21,
+          "numero": "095478654"
+        },
+        {
+          "id": 1,
+          "numero": "095478654"
+        }
+      ],
+      "id": 1,
+      "cedula": "52092449",
+      "email": "admin@admin.com",
+      "contrasenia": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "fechaNacimiento": [
+        2000,
+        11,
+        1
+      ],
+      "estado": "ACTIVO",
+      "nombre": "Admin",
+      "apellido": "Admin",
+      "nombreUsuario": "admin",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [
+          {
+            "id": 1,
+            "tipoPermiso": "Agregar"
+          },
+          {
+            "id": 4,
+            "tipoPermiso": "Ver"
+          }
+        ],
+        "id": 1,
+        "nombrePerfil": "Administrador",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [
+        {
+          "id": 22,
+          "numero": "098224558"
+        },
+        {
+          "id": 2,
+          "numero": "098224558"
+        }
+      ],
+      "id": 2,
+      "cedula": "70102943",
+      "email": "marcelop@admin.com",
+      "contrasenia": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "fechaNacimiento": [
+        2000,
+        1,
+        1
+      ],
+      "estado": "ACTIVO",
+      "nombre": "Marcelo",
+      "apellido": "Puentes",
+      "nombreUsuario": "marcelo.puentes",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [],
+        "id": 2,
+        "nombrePerfil": "Aux administrativo",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [],
+      "id": 3,
+      "cedula": "35453656",
+      "email": "madgalena@admin.com",
+      "contrasenia": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "fechaNacimiento": [
+        2000,
+        2,
+        2
+      ],
+      "estado": "ACTIVO",
+      "nombre": "Madgalena",
+      "apellido": "Rivas",
+      "nombreUsuario": "madgalena.rivas",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [],
+        "id": 3,
+        "nombrePerfil": "Ingeniero biomédico",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [],
+      "id": 4,
+      "cedula": "6047909",
+      "email": "esteban@admin.com",
+      "contrasenia": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "fechaNacimiento": [
+        2000,
+        3,
+        3
+      ],
+      "estado": "ACTIVO",
+      "nombre": "Esteban",
+      "apellido": "Paredes",
+      "nombreUsuario": "esteban.paredes",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [],
+        "id": 4,
+        "nombrePerfil": "Tecnico",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [],
+      "id": 5,
+      "cedula": "45722005",
+      "email": "pedro@admin.com",
+      "contrasenia": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "fechaNacimiento": [
+        2000,
+        4,
+        4
+      ],
+      "estado": "ACTIVO",
+      "nombre": "Pedro",
+      "apellido": "Artemis",
+      "nombreUsuario": "pedro.artemis",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [
+          {
+            "id": 1,
+            "tipoPermiso": "Agregar"
+          },
+          {
+            "id": 4,
+            "tipoPermiso": "Ver"
+          }
+        ],
+        "id": 1,
+        "nombrePerfil": "Administrador",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [],
+      "id": 6,
+      "cedula": "37647069",
+      "email": "ramon@admin.com",
+      "contrasenia": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "fechaNacimiento": [
+        2000,
+        5,
+        5
+      ],
+      "estado": "ACTIVO",
+      "nombre": "Ramon",
+      "apellido": "Mitre",
+      "nombreUsuario": "ramon.mitre",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [],
+        "id": 2,
+        "nombrePerfil": "Aux administrativo",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [
+        {
+          "id": 3,
+          "numero": "099984521"
+        },
+        {
+          "id": 23,
+          "numero": "099984521"
+        }
+      ],
+      "id": 7,
+      "cedula": "72940343",
+      "email": "alvaro@admin.com",
+      "contrasenia": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "fechaNacimiento": [
+        2000,
+        6,
+        6
+      ],
+      "estado": "ACTIVO",
+      "nombre": "Alvaro",
+      "apellido": "Salazar",
+      "nombreUsuario": "alvaro.salazar",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [],
+        "id": 3,
+        "nombrePerfil": "Ingeniero biomédico",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [],
+      "id": 201,
+      "cedula": "58742147",
+      "email": "ecgasdas@asdd.com",
+      "contrasenia": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "fechaNacimiento": [
+        2024,
+        7,
+        2
+      ],
+      "estado": "INACTIVO",
+      "nombre": "prueba",
+      "apellido": "hash",
+      "nombreUsuario": "admineslapass",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [
+          {
+            "id": 1,
+            "tipoPermiso": "Agregar"
+          },
+          {
+            "id": 4,
+            "tipoPermiso": "Ver"
+          }
+        ],
+        "id": 1,
+        "nombrePerfil": "Administrador",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [],
+      "id": 181,
+      "cedula": "56987412",
+      "email": "eduardo.gimeno@estudiantes.utec.edu.uy",
+      "contrasenia": "admin",
+      "fechaNacimiento": [
+        2009,
+        1,
+        6
+      ],
+      "estado": "INACTIVO",
+      "nombre": "Edaurdo",
+      "apellido": "Gimeno",
+      "nombreUsuario": "eduardo",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [
+          {
+            "id": 1,
+            "tipoPermiso": "Agregar"
+          },
+          {
+            "id": 4,
+            "tipoPermiso": "Ver"
+          }
+        ],
+        "id": 1,
+        "nombrePerfil": "Administrador",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [],
+      "id": 182,
+      "cedula": "3456543",
+      "email": "dsasad@ada.sds",
+      "contrasenia": "algo",
+      "fechaNacimiento": [
+        2024,
+        7,
+        9
+      ],
+      "estado": "INACTIVO",
+      "nombre": "ewr",
+      "apellido": "wr",
+      "nombreUsuario": "admin",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [
+          {
+            "id": 1,
+            "tipoPermiso": "Agregar"
+          },
+          {
+            "id": 4,
+            "tipoPermiso": "Ver"
+          }
+        ],
+        "id": 1,
+        "nombrePerfil": "Administrador",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [],
+      "id": 41,
+      "cedula": "48502707",
+      "email": "ecgb2007@gmail.com",
+      "contrasenia": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "fechaNacimiento": [
+        1993,
+        11,
+        5
+      ],
+      "estado": "ACTIVO",
+      "nombre": "Eduardo",
+      "apellido": "Gimeno",
+      "nombreUsuario": "eduardo.gimeno",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [
+          {
+            "id": 1,
+            "tipoPermiso": "Agregar"
+          },
+          {
+            "id": 4,
+            "tipoPermiso": "Ver"
+          }
+        ],
+        "id": 1,
+        "nombrePerfil": "Administrador",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "usuariosTelefonos": [],
+      "id": 162,
+      "cedula": "68741258",
+      "email": "asdadss@sdada.dsa",
+      "contrasenia": "algoes",
+      "fechaNacimiento": [
+        2024,
+        7,
+        12
+      ],
+      "estado": "INACTIVO",
+      "nombre": "sdad",
+      "apellido": "asdas",
+      "nombreUsuario": "asda",
+      "idInstitucion": {
+        "id": 1,
+        "nombre": "CodigoCreativo"
+      },
+      "idPerfil": {
+        "permisos": [
+          {
+            "id": 1,
+            "tipoPermiso": "Agregar"
+          },
+          {
+            "id": 4,
+            "tipoPermiso": "Ver"
+          }
+        ],
+        "id": 1,
+        "nombrePerfil": "Administrador",
+        "estado": "ACTIVO"
+      }
+    },
+    {
+      "id": "202",
+      "nombre": "fdsfsdf",
+      "apellido": "sdfsdfsd",
+      "cedula": "13555465",
+      "fecha_nasc": "2024-07-10T03:00:00.000Z",
+      "telefono": [
+        "123123",
+        "23333"
+      ],
+      "email": "admin@sadasdads.com",
+      "password": "hmaeunxd21101e",
+      "tipo_usuario": "Ingeniero Biomédico",
+      "estado": "Pendiente",
+      "institucion": "Código Creativo",
+      "nombre_usuario": "fdsfsdf.sdfsdfsd"
+    }
+  ],
+  "equipos": [
+    {
+      "id": 1,
+      "idInterno": "1001",
+      "nroSerie": "123355533",
+      "idTipo": {
+        "id": 2,
+        "nombreTipo": "Monitor de signos"
+      },
+      "idProveedor": {
+        "id": 2,
+        "nombre": "MoniVita"
+      },
+      "idPais": {
+        "id": 1,
+        "nombre": "Uruguay"
+      },
+      "idModelo": {
+        "id": 2,
+        "nombre": "Rowback",
+        "idMarca": {
+          "id": 2,
+          "nombre": "Health o Meter"
+        }
+      },
+      "equiposUbicaciones": [],
+      "idUbicacion": {
+        "id": 3,
+        "nombre": "Box Rapido",
+        "sector": "Emergencia",
+        "piso": 1,
+        "numero": 1,
+        "cama": null,
+        "idInstitucion": {
+          "id": 1,
+          "nombre": "CodigoCreativo"
+        },
+        "estado": "ACTIVO"
+      },
+      "nombre": "Tensiometro",
+      "imagen": "https://i.ibb.co/X26FksG/tensiometro.jpg",
+      "fechaAdquisicion": [
+        2023,
+        11,
+        1
+      ],
+      "estado": "ACTIVO"
+    },
+    {
+      "id": 2,
+      "idInterno": "1002",
+      "nroSerie": "12255577",
+      "idTipo": {
+        "id": 4,
+        "nombreTipo": "Anestesiometro"
+      },
+      "idProveedor": {
+        "id": 4,
+        "nombre": "Anestesic"
+      },
+      "idPais": {
+        "id": 1,
+        "nombre": "Uruguay"
+      },
+      "idModelo": {
+        "id": 3,
+        "nombre": "700G",
+        "idMarca": {
+          "id": 3,
+          "nombre": "Draguer"
+        }
+      },
+      "equiposUbicaciones": [],
+      "idUbicacion": {
+        "id": 4,
+        "nombre": "Cirugia",
+        "sector": "CTI",
+        "piso": 1,
+        "numero": 2,
+        "cama": null,
+        "idInstitucion": {
+          "id": 1,
+          "nombre": "CodigoCreativo"
+        },
+        "estado": "ACTIVO"
+      },
+      "nombre": "Anestesiometro cirugia",
+      "imagen": "https://i.ibb.co/Ht5DfKp/mgoitd09.png",
+      "fechaAdquisicion": [
+        2020,
+        11,
+        11
+      ],
+      "estado": "ACTIVO"
+    },
+    {
+      "id": 3,
+      "idInterno": "1003",
+      "nroSerie": "654456778",
+      "idTipo": {
+        "id": 6,
+        "nombreTipo": "Nebulizador"
+      },
+      "idProveedor": {
+        "id": 1,
+        "nombre": "MedicTube"
+      },
+      "idPais": {
+        "id": 1,
+        "nombre": "Uruguay"
+      },
+      "idModelo": {
+        "id": 5,
+        "nombre": "NE-C801",
+        "idMarca": {
+          "id": 5,
+          "nombre": "Omron"
+        }
+      },
+      "equiposUbicaciones": [],
+      "idUbicacion": {
+        "id": 8,
+        "nombre": "Cuarentena",
+        "sector": "Internación",
+        "piso": 1,
+        "numero": 2,
+        "cama": null,
+        "idInstitucion": {
+          "id": 1,
+          "nombre": "CodigoCreativo"
+        },
+        "estado": "ACTIVO"
+      },
+      "nombre": "Nebulizador",
+      "imagen": "https://i.ibb.co/LRRHW2s/nebulizador-omron-NE-C801-1-977x1024-1.png",
+      "fechaAdquisicion": [
+        2020,
+        11,
+        8
+      ],
+      "estado": "ACTIVO"
+    },
+    {
+      "id": 4,
+      "idInterno": "1004",
+      "nroSerie": "544568786",
+      "idTipo": {
+        "id": 1,
+        "nombreTipo": "Desfribilador"
+      },
+      "idProveedor": {
+        "id": 3,
+        "nombre": "Desfribilados"
+      },
+      "idPais": {
+        "id": 1,
+        "nombre": "Uruguay"
+      },
+      "idModelo": {
+        "id": 8,
+        "nombre": "BeneHeart D3",
+        "idMarca": {
+          "id": 7,
+          "nombre": "Mindray"
+        }
+      },
+      "equiposUbicaciones": [],
+      "idUbicacion": {
+        "id": 4,
+        "nombre": "Cirugia",
+        "sector": "CTI",
+        "piso": 1,
+        "numero": 2,
+        "cama": null,
+        "idInstitucion": {
+          "id": 1,
+          "nombre": "CodigoCreativo"
+        },
+        "estado": "ACTIVO"
+      },
+      "nombre": "Desfribilador CTI",
+      "imagen": "https://i.ibb.co/WVpb5s4/beneheath-d3-977x1024-1.png",
+      "fechaAdquisicion": [
+        2010,
+        10,
+        5
+      ],
+      "estado": "ACTIVO"
+    },
+    {
+      "id": 5,
+      "idInterno": "1005",
+      "nroSerie": "454644678",
+      "idTipo": {
+        "id": 7,
+        "nombreTipo": "Electrocardiógrafo"
+      },
+      "idProveedor": {
+        "id": 1,
+        "nombre": "MedicTube"
+      },
+      "idPais": {
+        "id": 1,
+        "nombre": "Uruguay"
+      },
+      "idModelo": {
+        "id": 7,
+        "nombre": "SE 301",
+        "idMarca": {
+          "id": 6,
+          "nombre": "EDAN"
+        }
+      },
+      "equiposUbicaciones": [],
+      "idUbicacion": {
+        "id": 4,
+        "nombre": "Cirugia",
+        "sector": "CTI",
+        "piso": 1,
+        "numero": 2,
+        "cama": null,
+        "idInstitucion": {
+          "id": 1,
+          "nombre": "CodigoCreativo"
+        },
+        "estado": "ACTIVO"
+      },
+      "nombre": "Cardiografo",
+      "imagen": "https://i.ibb.co/qFhSVVb/edan-se-301-1-1.png",
+      "fechaAdquisicion": [
+        2017,
+        3,
+        10
+      ],
+      "estado": "ACTIVO"
+    },
+    {
+      "id": 6,
+      "idInterno": "1006",
+      "nroSerie": "45875517",
+      "idTipo": {
+        "id": 4,
+        "nombreTipo": "Anestesiometro"
+      },
+      "idProveedor": {
+        "id": 4,
+        "nombre": "Anestesic"
+      },
+      "idPais": {
+        "id": 1,
+        "nombre": "Uruguay"
+      },
+      "idModelo": {
+        "id": 9,
+        "nombre": "Wato EX 65",
+        "idMarca": {
+          "id": 7,
+          "nombre": "Mindray"
+        }
+      },
+      "equiposUbicaciones": [],
+      "idUbicacion": {
+        "id": 3,
+        "nombre": "Box Rapido",
+        "sector": "Emergencia",
+        "piso": 1,
+        "numero": 1,
+        "cama": null,
+        "idInstitucion": {
+          "id": 1,
+          "nombre": "CodigoCreativo"
+        },
+        "estado": "ACTIVO"
+      },
+      "nombre": "Anestesiometro emergencia",
+      "imagen": "https://i.ibb.co/g6YL0F9/maquina-de-anestesia-mindray-wato-ex-65-1-977x1024-1.png",
+      "fechaAdquisicion": [
+        2019,
+        5,
+        20
+      ],
+      "estado": "ACTIVO"
+    }
+  ],
+  "bajas_equipos": [
+    {
+      "id": "1",
+      "nombre": "ww",
+      "fecha_baja": "2024-07-10T03:00:00.000Z",
+      "usuario": "yo",
+      "razon": "f",
+      "comentarios": "",
+      "estado": "Inactivo"
+    },
+    {
+      "id": "2",
+      "nombre": "monitor",
+      "fecha_baja": "2024-07-10T03:00:00.000Z",
+      "usuario": "yo",
+      "razon": "33",
+      "comentarios": "33",
+      "estado": "Inactivo"
+    }
+  ]
+}

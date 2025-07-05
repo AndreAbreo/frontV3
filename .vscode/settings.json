@@ -1,0 +1,5 @@
+{
+    "typescript.format.enable": false,
+    "typescript.format.indentSwitchCase": false,
+    "typescript.locale": "es"
+}
